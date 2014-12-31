@@ -5,20 +5,14 @@ This powershell script will allow you to check domain name expirations in mass.
 
 Getting Started
 ==================================
--Download this powershell script.
--Download whoiscl.exe from [Nirsoft](http://www.nirsoft.net/utils/whoiscl.html) and store in the same directory as the script.
--Save a text file with your domain names on their own line, no subdomains accepted.
-
-    google.com
-    yahoo.com
-    newegg.com
-    lifehacker.com
-
-Run the script in powershell
+* Download this powershell script.
+* Download whoiscl.exe from [Nirsoft](http://www.nirsoft.net/utils/whoiscl.html) and store in the same directory as the script.
+* Save a text file with your domain names on their own line, no subdomains accepted.
+* Run the script in powershell
 
     .\Domain_Expirations.ps1
     
-The script will ask for the full path to your text file, which is the absolute path.  Enter it in and be on your merry way.
+* The script will ask for the full path to your text file, which is the absolute path.  Enter it in and be on your merry way.
 
 Limitations
 ==================================
